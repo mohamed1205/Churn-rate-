@@ -41,3 +41,6 @@ In this  project I used Power bi  to explore and analyze the data to determine w
  
  5- Dashboards:
  
+ ![churn](https://user-images.githubusercontent.com/113065912/228841341-1b776271-7a1e-4fa6-a69e-779cabac0688.png)
+
+ 
