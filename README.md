@@ -1,4 +1,4 @@
-# Churn_rate 
+# Power BI project 1 : 
 In this  project I used Power bi  to explore and analyze the data to determine what is the reason that lead to increase churn rate ,and what is the decision  that we can make to reduce it.
 
 
